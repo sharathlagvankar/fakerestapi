@@ -1,0 +1,14 @@
+{
+  "account": [
+    { "id": 1, "title": "Account 1" },
+    { "id": 2, "title": "Account 2" },
+    { "id": 3, "title": "Account 3" }
+  ],
+  "contact": [
+    { "id": 1, "body": "sharath", "accountId": 1 },
+    { "id": 2, "body": "lagvankar", "accountId": 1 }
+  ],
+  "profile": {
+    "name": "sharathlagvankar"
+  }
+}
